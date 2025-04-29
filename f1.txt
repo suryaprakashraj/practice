@@ -5,3 +5,8 @@ It verifies that new changes haven't introduced unintended side effects or broke
 Identifies and fixes issues:
 It helps catch bugs that might have been introduced by new code changes, ensuring the reliability and quality of the software. 
 Part of a broader testing strategy:
+
+Abcd
+dcba
+xyz
+zxy

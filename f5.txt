@@ -1,0 +1,4 @@
+Abcd
+dcba
+xyz
+zxy
